@@ -13,11 +13,17 @@ The spirit of this effort is supported by TW(MR)'s Guiding Principals, and its p
 In no particular order at the moment.
 
 -Curiosity <=> Imagination
+
 -Empathy <=> Mindfulness
+
 -Aspire  <=> Inspire
+
 -Engage <=> Enable
+
 -Influence <=> Impact
+
 -Communication <=> Collaboration
+
 -Purpose <=> Acceptance
 
 
