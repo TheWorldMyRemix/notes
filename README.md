@@ -5,7 +5,12 @@ TW(MR) - Notes
 
 The TW(MR) mission is to champion the sharing of transformative ideas; ideas that activate citizens to mindfully impact their micro and macro communities. 
 
-The spirit of this effort is supported by TW(MR)'s Guiding Principals, and its physical manifestations by its Community Toolkit. 
+
+The framework of the TW(MR) effort has two key components:
+
+1) The spirit is captured by its Guiding Principals;
+
+2) Its physical manifestations are furthered by its _______ Toolkit. 
 
 
 
