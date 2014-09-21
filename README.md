@@ -12,19 +12,19 @@ The spirit of this effort is supported by TW(MR)'s Guiding Principals, and its p
 #### Guiding Principals
 In no particular order at the moment.
 
--Curiosity <=> Imagination
+- Curiosity <=> Imagination
 
--Empathy <=> Mindfulness
+- Empathy <=> Mindfulness
 
--Aspire  <=> Inspire
+- Aspire  <=> Inspire
 
--Engage <=> Enable
+- Engage <=> Enable
 
--Influence <=> Impact
+- Influence <=> Impact
 
--Communication <=> Collaboration
+- Communication <=> Collaboration
 
--Purpose <=> Acceptance
+- Purpose <=> Acceptance
 
 
 #### Toolkit (TBD)
