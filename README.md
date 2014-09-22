@@ -6,16 +6,17 @@ TW(MR) - Notes
 The TW(MR) mission is to champion the sharing of transformative ideas; ideas that activate citizens to mindfully impact their micro and macro communities. 
 
 
-The framework of the TW(MR) effort has two key components:
+The framework of the TW(MR) effort has three key components:
 
 1) The spirit is captured by its Guiding Principals;
 
-2) Its physical manifestations are furthered by its _______ Toolkit. 
+2) "DNA" (i.e., secondary ideals hovering outside the Guiding Principals)
+
+3) Its physical manifestations are furthered by its _______ Toolkit. 
 
 
 
-#### Guiding Principals
-In no particular order at the moment.
+#### Guiding Principals (In no particular order at the moment.)
 
 - Curiosity <=> Imagination
 
@@ -27,9 +28,18 @@ In no particular order at the moment.
 
 - Influence <=> Impact
 
-- Communication <=> Collaboration
+- Communication <=> Acknowledgement
+ 
+- Community <=> ??
+
+- Selflessness <=> Collaboration
 
 - Purpose <=> Acceptance
+
+
+#### DNA
+
+Inclusive, Access, Opportunity
 
 
 #### Toolkit (TBD)
