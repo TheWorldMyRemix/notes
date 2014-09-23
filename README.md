@@ -30,7 +30,7 @@ The framework of the TW(MR) effort has three key components:
 
 - Communication <=> Acknowledgement
  
-- Community <=> ??
+- Community <=> Empathy
 
 - Selflessness <=> Collaboration
 
