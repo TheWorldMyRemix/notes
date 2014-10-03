@@ -20,7 +20,7 @@ The framework of the TW(MR) effort has three key components:
 
 - Curiosity <=> Imagination
 
-- Acceptance <=> Mindfulness
+- Empathy <=> Mindfulness
 
 - Aspire  <=> Inspire
 
@@ -30,15 +30,16 @@ The framework of the TW(MR) effort has three key components:
 
 - Communication <=> Acknowledgement
  
-- Community <=> Empathy
+- Accessibility <=> Community  
 
 - Selflessness <=> Collaboration
+ 
 
 
 
 #### DNA
 
-Inclusive, Access, Opportunity
+Inclusive, Opportunity, Acceptance
 
 
 #### Toolkit (TBD)
