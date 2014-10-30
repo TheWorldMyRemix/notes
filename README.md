@@ -18,21 +18,21 @@ The framework of the TW(MR) effort has three key components:
 
 #### Guiding Principals (In no particular order at the moment.)
 
-- Curiosity <=> Imagination
+- Curiosity (Ask: Why?) <=> Imagination (Ask: Why not?)
 
 - Empathy <=> Mindfulness
 
-- Aspire  <=> Inspire
+- Aspire (Ask: Can you help me?) <=> Inspire (Ask: How can I help?)
 
 - Engage <=> Enable
 
 - Influence <=> Impact
 
-- Communication <=> Acknowledgement
+- Communication (Use clarity, brevity and context) <=> Acknowledgement (Listen. Listen carefully)
  
 - Accessibility <=> Community  
 
-- Selflessness <=> Collaboration
+- Selflessness (TBD) <=> Collaboration (Lead by sharing)
  
 
 
