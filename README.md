@@ -20,7 +20,7 @@ The framework of the TW(MR) effort has three key components:
 
 - Curiosity (Ask: Why?) <=> Imagination (Ask: Why not?)
 
-- Empathy <=> Mindfulness
+- Empathy <=> Agency
 
 - Aspire (Ask: Can you help me?) <=> Inspire (Ask: How can I help?)
 
@@ -32,7 +32,7 @@ The framework of the TW(MR) effort has three key components:
 
 - Truth <=> Trust
  
-- Agency <=> Community  
+-  <=> Community  
 
 - Accessibility <=> Fairness
 
