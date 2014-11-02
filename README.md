@@ -32,9 +32,9 @@ The framework of the TW(MR) effort has three key components:
 
 - Truth <=> Trust
  
-- <=> Community  
+- Agency <=> Community  
 
-- Accessibility <=> 
+- Accessibility <=> Fairness
 
 - Selflessness (TBD) <=> Collaboration (Lead by sharing)
  
