@@ -29,8 +29,12 @@ The framework of the TW(MR) effort has three key components:
 - Influence <=> Impact
 
 - Communication (Use clarity, brevity and context) <=> Acknowledgement (Listen. Listen carefully)
+
+- Truth <=> Trust
  
-- Accessibility <=> Community  
+- <=> Community  
+
+- Accessibility <=> 
 
 - Selflessness (TBD) <=> Collaboration (Lead by sharing)
  
