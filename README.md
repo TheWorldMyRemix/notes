@@ -1,6 +1,11 @@
 TW(MR) - Notes
 ==============
 
+### Vision Statement
+
+Because humankind must eventually reach its potential; and all people should be given the opportunity to participate in the process that defines that journey.
+
+
 #### Mission Statement
 
 The TW(MR) mission is to champion the sharing of transformative ideas; ideas that activate citizens to mindfully impact their micro and macro communities. 
