@@ -31,17 +31,19 @@ The framework of the TW(MR) effort has three key components:
 
 - Engage <=> Enable
 
+- Believe (Ask: What do I stand for?) <=> Embody (Ask: What so others think I stand for?)
+
 - Influence <=> Impact
 
 - Communication (Use clarity, brevity and context) <=> Acknowledgement (Listen. Listen carefully)
 
 - Truth <=> Trust
  
--  <=> Community  
+-  TBD <=> Community  
 
 - Accessibility <=> Fairness
 
-- Selflessness (TBD) <=> Collaboration (Lead by sharing)
+- Selflessness (TBD) <=> Collaboration (AsK: What can I share?)
  
 
 
