@@ -33,7 +33,7 @@ The framework of the TW(MR) effort has three key components:
 
 - Believe (Ask: What do I stand for?) <=> Embody (Ask: What so others think I stand for?)
 
-- Influence <=> Impact
+- Influence (How do I...?) <=> Impact  (What can be the result?)
 
 - Communication (Use clarity, brevity and context) <=> Acknowledgement (Listen. Listen carefully)
 
